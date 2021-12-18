@@ -1,0 +1,37 @@
+.container {
+    width: 1170px;
+
+    margin: 30px auto;
+
+    /*border: 1px solid rgb(185, 167, 167);*/
+    /*padding: 20px;*/
+
+    /*box-shadow: 1px 1px 5px #7d887f;*/
+    border: 1px solid #f2f4fb;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px 0 rgba(46, 61, 73, 0.2);
+    padding: 40px 0;
+
+}
+.imageCenter{
+    align-items: center;
+}
+.card_container {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#sectionHelp{
+    text-align: center;
+}
+#sectionHelp > h1{
+    font-size: 36px;
+    font-family: Montserrat,'Montserrat arm2', sans-serif;
+    letter-spacing: 0.1px;
+}
+
+#sectionHelp> h4 {
+    font-family: Montserrat,'Montserrat arm2', sans-serif;
+    letter-spacing: 0.1px;
+}

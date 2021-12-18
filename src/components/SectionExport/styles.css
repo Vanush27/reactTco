@@ -1,0 +1,37 @@
+.container_exp {
+    height: 450px;
+    width: 90%;
+    margin: 30px auto;
+    background-color: #ffffff;
+    /*border: 1px solid rgb(185, 167, 167);*/
+    padding: 20px;
+    /*border-radius: 20px;*/
+    /*box-shadow: 1px 1px 5px #7d887f;*/
+}
+
+.card_container_exp {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /*width: 90%;*/
+    /*height: 200px;*/
+}
+
+#sectionExport > img {
+    width: 100px;
+    height: 100px;
+}
+
+.imageCenter {
+    text-align: center;
+}
+
+#sectionExport {
+    text-align: center;
+}
+
+#sectionExport > h4 {
+    width: 60%;
+    margin: 0 auto;
+}
